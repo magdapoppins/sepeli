@@ -1,0 +1,15 @@
+#kulmio {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+}
+
+.palanen {
+    width: 200px;
+    height: 200px;
+}
+
+#nakymaton {
+    opacity: 0;
+}
